@@ -1,0 +1,23 @@
+*body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+/* body{
+    background-color: #fff;
+} */
+form{
+    max-width:500px;
+    margin:auto;
+    background-color: "blue";
+    padding:20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba (0,0,0,0.1);
+    background-color: skyblue;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    background-color: aliceblue;
+}
